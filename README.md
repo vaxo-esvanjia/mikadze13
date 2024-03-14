@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vazha Mikadze</h1>
-<h3 align="center">A passionate Front-end Developer from Georgia</h3>
+<h1 align="center">Hi 👋, I'm Vakho Esvanjia</h1>
+<h3 align="center">A Front-end Developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikadze13&label=Profile%20views&color=0e75b6&style=flat" alt="mikadze13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikadze13&label=Profile%20views&color=0e75b6&style=flat" alt="vaxoesvanjia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mikadze17" target="blank"><img src="https://img.shields.io/twitter/follow/mikadze17?logo=twitter&style=for-the-badge" alt="mikadze17" /></a> </p>
+
 
 - 🔭 I’m currently working on [dinamic-cv](https://dinamic-cv-hxn5.vercel.app/auth)
 
